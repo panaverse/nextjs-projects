@@ -5,3 +5,5 @@ Review this [tutorial](https://dev.to/franciscomendes10866/build-a-full-stack-ap
 You may use any serverless database of your choice with Prisma ORM.
 
 The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
+
+When the project is complete deploy it on [Vercel](https://vercel.com/docs/concepts/deployments/overview).

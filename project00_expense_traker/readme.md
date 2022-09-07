@@ -4,6 +4,8 @@ This [Expense Tracker App is in React], you are required to port this applicatio
 
 The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
 
+When the project is complete deploy it on [Vercel](https://vercel.com/docs/concepts/deployments/overview).
+
 React Learning Resources:
 
 [YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)

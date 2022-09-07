@@ -14,6 +14,8 @@
 
 The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
 
+When the project is complete deploy it on [Vercel](https://vercel.com/docs/concepts/deployments/overview).
+
 You are required to build your own App not just copy the Demo Apps.
 
 [English Facebook Video : Building A project With React, TypeScript And GraphQL](https://www.facebook.com/zeeshanhanif/videos/10224252222558107/)

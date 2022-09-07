@@ -6,4 +6,4 @@ Shopping cart using Next.js and Redux Toolkit. Styled with Chakra UI.
 
 The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
 
-
+When the project is complete deploy it on [Vercel](https://vercel.com/docs/concepts/deployments/overview).

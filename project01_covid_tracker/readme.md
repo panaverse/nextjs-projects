@@ -16,7 +16,7 @@ Choose one or more COVID-19 API's that you are going to use:
 
 [COVID-19 API Listing 3](https://dataconomy.com/2020/04/apis-to-track-coronavirus-covid-19/)
 
-
+When the project is complete deploy it on [Vercel](https://vercel.com/docs/concepts/deployments/overview).
 
 Adil Altaf builds the COVID-19 React Tracker App
 
