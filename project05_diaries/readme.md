@@ -8,6 +8,8 @@ In the project we will use Prisma to connect to the Database in the APIs.
 
 We will use two versions of the project one using [MongoDB Atlas](https://www.mongodb.com/atlas/database) and the other [Cockroach DB](https://www.cockroachlabs.com/get-started-cockroachdb/). Both versions will be using Prisma. 
 
+The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
+
 Deploy both the versions on Vercel. 
 
 This Project is very important because up to now we have been doing small projects which focused on only focused limited functionality. This project is the first real-world professional full stack project. In the real-world, we will be doing these kinds of projects. Therefore, give special attention to it.

@@ -2,6 +2,8 @@
 
 You will use Next.js, Chart.js, and Chakra UI to build this COVID-19 Tracker App
 
+The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
+
 Watch this video as a example for the React app but build your own app using Next.js don't just copy it:
 
 [Example COVID-19 React Tracker App Demo](https://www.youtube.com/watch?v=khJlrj3Y6Ls)

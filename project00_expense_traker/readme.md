@@ -2,6 +2,8 @@
 
 This [Expense Tracker App is in React], you are required to port this application and build it using Next.js and Chakra UI.
 
+The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
+
 React Learning Resources:
 
 [YouTube English Video : Building a React Project](https://www.youtube.com/watch?v=q6GmIxnflfM)

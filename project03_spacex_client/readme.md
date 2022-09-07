@@ -1,4 +1,4 @@
-### Space X Client Application with Next.js, TypeScript, Appllo Client, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
+### Space X Client Application with Next.js, TypeScript, Chakra UI, Appllo Client, and SpaceX API using Test-Driven Development (TDD) and deployed as a PWA
 
 [Watch first 7 mins of video](https://www.youtube.com/watch?v=7wzR4Ig5pTI)
 
@@ -11,6 +11,8 @@
 [Build a GraphQL + Next.js app with TypeScript](https://www.apollographql.com/blog/apollo-client/next-js/next-js-getting-started/)
 
 [Configuring and using the Apollo client in a Next.js TypeScript application](https://javascript.plainenglish.io/configuring-and-using-the-apollo-client-in-a-next-js-typescript-application-9de6b2258943)
+
+The app must be [mobile-first and responsive](https://chakra-ui.com/docs/styled-system/responsive-styles).
 
 You are required to build your own App not just copy the Demo Apps.
 
